@@ -1,4 +1,4 @@
- 👋 Hi! I’m Dmitry Makarov, a Software Quality Assurance Engineer. This is my [LinkedIn](www.linkedin.com/in/dimmakarof) profile
+ 👋 Hi! I’m Dmitry Makarov, a Software Quality Assurance Engineer. This is my [LinkedIn](https://www.linkedin.com/in/dimmakarof/) profile
 
 
 
